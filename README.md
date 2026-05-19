@@ -105,7 +105,6 @@ class MostafaKamal
 
 <div align="center">
 
-> *"أي لغة هتتعلمها المهم تفهم الـ concepts صح"*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mu989595.Mu989595)
 
